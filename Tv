@@ -1,31 +1,31 @@
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/AMC_logo_2016.svg_.png" group-title="Latin America" tvg-id="254" tvg-name="amc.mx", LATINO: AMC | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/AMC_logo_2016.svg_.png" group-title="Latin America" tvg-id="29" tvg-name="amc.mx", LATINO: AMC | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53266
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision_2013.svg_.png" group-title="Latin America" tvg-id="402" tvg-name="", LATINO: UNIVISION (West) | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision_2013.svg_.png" group-title="Latin America" tvg-id="561" tvg-name="", LATINO: UNIVISION (West) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53134
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision_2013.svg_.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION (San Francisco) | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision_2013.svg_.png" group-title="Latin America" tvg-id="1065" tvg-name="", LATINO: UNIVISION (San Francisco) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53130
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/unimas-logo.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIMAS (San Francisco) | HD*
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/unimas-logo.png" group-title="Latin America" tvg-id="563" tvg-name="", LATINO: UNIMAS (San Francisco) | HD*
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53114
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/unimas-logo.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIMAS ATLANTA 2 | SD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/unimas-logo.png" group-title="Latin America" tvg-id="797" tvg-name="", LATINO: UNIMAS ATLANTA 2 | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53113
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/unimas-logo.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIMAS (San Francisco) | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/unimas-logo.png" group-title="Latin America" tvg-id="648" tvg-name="", LATINO: UNIMAS (San Francisco) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53112
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIMAS ATLANTA | SD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="1028" tvg-name="", LATINO: UNIMAS ATLANTA | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53111
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/UFORIA-DEBUT.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UFORIA DEBUT | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53110
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/unimas-logo.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIMAS (New York) | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/unimas-logo.png" group-title="Latin America" tvg-id="251" tvg-name="", LATINO: UNIMAS (New York) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53109
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: NOVELAS | SD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="625" tvg-name="", LATINO: NOVELAS | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53108
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIMAS (Los Angeles) | HD*
@@ -34,10 +34,7 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53107
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: HOROSCOPES | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53106
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIMAS (Los Angeles) | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53105
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: GALAVISION (West) | SD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="40" tvg-name="", LATINO: GALAVISION (West) | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53104
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIMAS (Houston) | HD
@@ -80,13 +77,13 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53089
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/KAKW62-012013.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION 62 (Austin) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53088
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/Fox-Sports-2.png" group-title="Latin America" tvg-id="fox.sports.2.us" tvg-name="fox.sports.2.us", LATINO: FOX SPORTS 2 | UHD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/Fox-Sports-2.png" group-title="Latin America" tvg-id="857" tvg-name="fox.sports.2.us", LATINO: FOX SPORTS 2 | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53086
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/Fox_Sports_logo1.svg_.png" group-title="Latin America" tvg-id="foxsports.mx" tvg-name="foxsports.mx", LATINO: FOX SPORTS | UHD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/Fox_Sports_logo1.svg_.png" group-title="Latin America" tvg-id="62" tvg-name="foxsports.mx", LATINO: FOX SPORTS | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53085
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TUDN X2 | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="1229" tvg-name="", LATINO: TUDN X2 | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53074
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision-Deportes.png" group-title="Latin America" tvg-id="univision.eastern.us" tvg-name="univision.eastern.us", LATINO: UNIVISION | HD
@@ -95,10 +92,10 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53073
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision-Deportes.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION DEPORTES | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53072
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/Espn_deportes.png" group-title="Latin America" tvg-id="espn.deportes.on.demand.us" tvg-name="espn.deportes.on.demand.us", LATINO: ESPN DEPORTES | SD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/Espn_deportes.png" group-title="Latin America" tvg-id="1231" tvg-name="espn.deportes.on.demand.us", LATINO: ESPN DEPORTES | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53071
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/Fox_Sports_logo1.svg_.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: FOX SPORTS DEPORTES | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/Fox_Sports_logo1.svg_.png" group-title="Latin America" tvg-id="584" tvg-name="", LATINO: FOX SPORTS DEPORTES | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53070
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/GolTVLatam-2005.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: GOLTV LATIN | HD
@@ -113,28 +110,28 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53067
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/UNIVISION-TLNOVELAS.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION TLNOVELAS | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53066
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/unimas-logo.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIM | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/unimas-logo.png" group-title="Latin America" tvg-id="3308" tvg-name="", LATINO: UNIM | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53065
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/UNIVERSO.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVERSO | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/UNIVERSO.png" group-title="Latin America" tvg-id="631" tvg-name="", LATINO: UNIVERSO | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53064
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/BabyTV-1.png" group-title="Latin America" tvg-id="babytv.mx" tvg-name="babytv.mx", LATINO: BABY TV | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53063
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/ANT3.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: ANT3 | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/ANT3.png" group-title="Latin America" tvg-id="252" tvg-name="", LATINO: ANT3 | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53062
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/BANDAMAX.jpg" group-title="Latin America" tvg-id="bandamax.mx" tvg-name="bandamax.mx", LATINO: BANDAMAX | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53061
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/07/CINE-SONY.jpg" group-title="Latin America" tvg-id="cine.sony.us" tvg-name="cine.sony.us", LATINO: CINE SONY | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/07/CINE-SONY.jpg" group-title="Latin America" tvg-id="640" tvg-name="cine.sony.us", LATINO: CINE SONY | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53060
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/TeleHit_new_logo.png" group-title="Latin America" tvg-id="telehit.us" tvg-name="telehit.us", LATINO: TELEHIT | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53059
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/NAT-GEO-MUNDO.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: NAT GEO MUNDO | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/NAT-GEO-MUNDO.png" group-title="Latin America" tvg-id="871" tvg-name="", LATINO: NAT GEO MUNDO | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53058
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/FOROTV.jpg" group-title="Latin America" tvg-id="forotv.mx" tvg-name="forotv.mx", LATINO: FOROTV | SD
@@ -152,13 +149,13 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53054
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: MAS CHIC | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53053
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/DISCOVERY-FAMILIA.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: DISCOVERY FAMILIA | SD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/DISCOVERY-FAMILIA.png" group-title="Latin America" tvg-id="593" tvg-name="", LATINO: DISCOVERY FAMILIA | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53052
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/Fox-Life-HD.jpg" group-title="Latin America" tvg-id="foxlife.mx" tvg-name="foxlife.mx", LATINO: FOX LIFE | SD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/Fox-Life-HD.jpg" group-title="Latin America" tvg-id="627" tvg-name="foxlife.mx", LATINO: FOX LIFE | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53051
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/GALAVISION.jpg" group-title="Latin America" tvg-id="galavision.eastern.us" tvg-name="galavision.eastern.us", LATINO: GALAVISION (East) | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/GALAVISION.jpg" group-title="Latin America" tvg-id="567" tvg-name="galavision.eastern.us", LATINO: GALAVISION (East) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53050
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/El-GOURMET.png" group-title="Latin America" tvg-id="elgourmet.mx" tvg-name="elgourmet.mx", LATINO: EL GOURMET | HD
@@ -170,10 +167,10 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53048
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/NUESTRA-TELE-INTERNACIONAL.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: NUESTRA TELE INTERNACIONAL | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53047
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/220px-Discovery_2016.png" group-title="Latin America" tvg-id="discoveryhd.mx" tvg-name="discoveryhd.mx", LATINO: DISCOVERY | SD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/220px-Discovery_2016.png" group-title="Latin America" tvg-id="575" tvg-name="discoveryhd.mx", LATINO: DISCOVERY | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53046
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Telefe.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TELEFE | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Telefe.png" group-title="Latin America" tvg-id="620" tvg-name="", LATINO: TELEFE | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53045
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/MTV-TRES.gif" group-title="Latin America" tvg-id="mtvtr3s.us" tvg-name="mtvtr3s.us", LATINO: MTV TRES | HD
@@ -188,7 +185,7 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53042
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/TELEMUNDO-25-Denver.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TELEMUNDO 25 (Denver) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53041
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TELEMUNDO-Fort-Lauderdale.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TELEMUNDO 51 (Miami) | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TELEMUNDO-Fort-Lauderdale.png" group-title="Latin America" tvg-id="24" tvg-name="", LATINO: TELEMUNDO 51 (Miami) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53040
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TELEMUNDO-Tucson.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TELEMUNDO 40 (Tucson) | HD
@@ -254,26 +251,20 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53017
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/HBO.png" group-title="Latin America" tvg-id="hbo.eastern.us" tvg-name="hbo.eastern.us", LATINO: HBO | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53016
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/HISTORY-EN-ESPANOL.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: HISTORY EN ESPANOL | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/HISTORY-EN-ESPANOL.png" group-title="Latin America" tvg-id="875" tvg-name="", LATINO: HISTORY EN ESPANOL | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53015
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="tudn.us" tvg-name="tudn.us", LATINO: TUDN | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="586" tvg-name="tudn.us", LATINO: TUDN | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53014
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/1200px-Logo_TVE-Internacional.svg_.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TV ESPANOLA INTERNACIONAL | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53013
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/RCN_Novelas.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: RCN NOVELAS | SD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/RCN_Novelas.png" group-title="Latin America" tvg-id="3384" tvg-name="", LATINO: RCN NOVELAS | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53012
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/Milenio_Television.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: MILENIO TELEVISION | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53011
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/ALMAVISION.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: ALMAVISION | SD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53010
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/07/CINE-SONY.jpg" group-title="Latin America" tvg-id="cine.sony.us" tvg-name="cine.sony.us", LATINO: CINE SONY | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53009
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/CINEMA-TV.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: CINEMAI | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53008
@@ -290,17 +281,11 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53005
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/EL-TRECE-INTERNACIONAL.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: EL TRECE INTERNACIONAL | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53004
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/babyTV.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: BABY TV PORTUGUESE | SD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53003
-
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Band-News.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: BAND NEWS | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53002
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/BAND-INTERNACIONAL.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: BAND INTERNACIONAL | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53001
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TV-QUISQUEYA.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TV QUISQUEYA | SD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53000
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/RECORD-TV.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: RECORD TV AMERICAS | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/52999
@@ -320,17 +305,11 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/52995
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/A3CINE.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: A3CINE | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/52994
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/BOLOVIA-TV.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: BOLOVIA TV | SD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/52993
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: AZ CINEMA | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/52992
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/AZ-CORAZON.png" group-title="Latin America" tvg-id="azcorazon.mx" tvg-name="azcorazon.mx", LATINO: AZ CORAZON | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/52991
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/BOLOVIA-TV.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: BOLIVIA TV | SD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/52990
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/CANAL-ONCE.jpg" group-title="Latin America" tvg-id="canal.once.mexico.us" tvg-name="canal.once.mexico.us", LATINO: CANAL ONCE | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/52989
@@ -425,19 +404,16 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/5196
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryturbo.png" group-title="Latin America" tvg-id="Discovery Turbo Latin America" tvg-name="Discovery Turbo Latin America", Latino: Discovery Turbo
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5194
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" group-title="Latin America" tvg-id="espnlatin" tvg-name="espn", Latino: ESPN
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/5182
-
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/cinecanallam.png" group-title="Latin America" tvg-id="cinecanal.mx" tvg-name="cinecanal.mx", Latino: Cinecanal
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5190
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" group-title="Latin America" tvg-id="espn3.mx" tvg-name="espn 3", Latino: ESPN 3
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" group-title="Latin America" tvg-id="585" tvg-name="espn 3", Latino: ESPN 3
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5192
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowildhd.png" group-title="Latin America" tvg-id="natgeowild.mx" tvg-name="natgeowild.mx", Latino: NatGeo Wild HD
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowildhd.png" group-title="Latin America" tvg-id="871" tvg-name="natgeowild.mx", Latino: NatGeo Wild HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5180
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Latin America" tvg-id="fox.mx" tvg-name="fox.mx", Latino: Fox HD
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Latin America" tvg-id="805" tvg-name="fox.mx", Latino: Fox HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5186
 
 #EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATYAAACjCAMAAAA3vsLfAAAA51BMVEX///8hHR4AAAD/xAD/ygBJR0ccFxg/PD3r6+sXFR36+vpmUyr/xgAXERPf398FAAC0s7MAAB709PShoKDHxsZraWmrqqvR0NGHhoZmZGTv7u4RCgzZ2Nk6NzgAACBUUVKXlpZ4d3dMSkomIiMcGR2joqKZmJhdW1wLDh6wr6/DwsKPjo60jyUZFx2DgoIrJyhuYUcrJiIAABinhB6OcSLpthvPoh00LygNFCabeiJ4YijcrB6/liCJbib1vhRdVUhtVRr/0gAAAA1NQik9NSZuWihcTChLQCh+ZiiJbiNxYT41LBqRinxlBPL8AAAHx0lEQVR4nO2daX+bOBCHYYyBEHOY+JbxGR+xk3i3bdJk02Y3bZN2j+//eVYHYMnGafoK82OeFy6hCIt/NNKMNCiahiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIghwVXmdS3TIZB3lXqBD0Z/MFEDOFgN7Pu04FwZ4QfYsJqNsbWbiyblHe1SkKjiybDu2861MURr4kG+nkXZ2i4IFspdO8q1MYIlO2UhwU3shIHkzJOu/qFIW+YqWbvKtTGKaKlXp5V6codGQr9ed5V6coqGMperwqQbNqZfLb7zpa6QHsCFwzk3fvPyxlKz2TSjVKHjWEuhJEyQxubuuylVpyOdLLq8ZHQZMcUu38o1G7O5et1JbKDce5VfkIsOGQavry3jD+OJGttCUVXICTW6Xz58w/KNvgoVZTrXQiFYxglVul88cyD6lGbbRSq9zJp2Dbn3ngNnOsds68ZqMfjErFeJatFC7Sgl1XhxzrnTOtV220Uql9kq3UXSTl5lTuElvp5LCNbqhqldqjaqWhKDZmjZSUdiwNX7HRz9RGqZWeKlbKl/68jWijpbXSi8Oy1W9rXLZLxUq7tFAL4iYKjbzrnxNsdcp0Y8wTmSuuGrXSgXwWHGeRSk2u865/PjigE7C6MX8+n255uec2SpvbD+ns6V/zqRRV+Hk/QD4EAONtwDS8fDIkKjHyuaf7L8rMZTnj+SZI2R021E8fa5VXMB6/vlP6v5LOXE7lZZUW6Mvpg3FQtJrx6e5EUa2sLogr/zCkw8P54N440OBqtc+Dcx1lo4yk454YIOsvj5kNzrj5ttR38Wd51TxX5KmfxIU7ubvd161mXA6u9n07ZQKunKQJRueDz7uGWqs81/dF0wFXnOUwa/ntRtGt9rDZN1CqWjl7NoVADrOWL4qdGh9P9kVzAVNT+fzZlneXqmz3GaOBhf0aD7MkBo87RrrXs0FJw9EdVrJsJy87Y6mxUT021y/vDKVCU7bR5XsjcXFj2ZRlZh0mYd71PRKybJQ6a7ELp1ipCaO8a3ssNGTZrr4boqn9qA8+CBfOmKZWSvRyTntkMZaX5oWNimiq/pXHWsbfiZVCt8yryjuoNkqd3TSaOrn7RBtcssxsQuvnNysNbVm282+GHE3RWIuODLUrZqX+BnO1JK4VG703jIepNHTSWMswfiwxmtpFccoGN0/36sza1eDy6baO0dQOqo1+r7zsBQX155qL0dQOa9lGr/7xMwL35b//5V3Lo0N928ULICO/8vxLOWdyD+Ps5oPbVlZCDSzQY5NRZBPvCF1nJTkQF+MDGTk1MH4jbeVnGKq5nQVH/42vkKbKJO8/9iZZDQ6qQq8zXEWgWGnTkt62HUFG7psJ1c5o7Js5VvZ4CDeJCyJndbTNrNx7kxCIcL6N43Rjk/Qzz+5YKsZYKSLXT0mh16QMwC04Ia7gRf6+bGm+6bapTcr90tA+LI95P9FvrDjDuBC/zwrcjHRcKdZydxxeHBk4PQus/bO2FTc4GKo6rWdlzXneZQ1ZrwStwadux+6EuLcKMNqKsdfjjHk1u9VZ7w+gQQNjLARBEARBEARBEARBEARBjhQnLOoyg2PboXzYCwKRaMUPQjuZw+3ZKZo4bdvpmh4/DNMLaLm+R7G3NxYHq240jZrJykJjSAA214VUbgWQpMFUAS60PsTbiLXZwQySnXaGkOBr9PRUc+hhvBH2HGDBP2M8rREfdfvxrZhuzhB8Vh66cSkfCPuxiFmrDUh2AFgD25tIla0Fenzdgj6wq5v0k7BV+Iilu5kmb5h90NkmbWe+nsrWBn7sE5hpqWxVAougEUzAZztu2eA2bS1cmXC2X6ujh8pm8tzuNpivyaY5jtbxq/QfZysbYe3GofIJ2YjtcRxWuGHb3oyYLMlGyNaCWKCOz76QNnMuul3ExkZlM6sufSrHdaPpa7JpGpeNI2QzJ4RtcNckpEqEbOmVbRC77/Zc10pki0iyrVtEhqyNFjkTn/ZCNnu2BQGP/JpssOoSsAP6+GP/gGxai3VdXLYepPvfzXzW0CICm/FoVcgRgcnmNMCtMsngF2ULNCq4TltaU8hmDjlVSTabicVl60O6/XODf0e4ED1hIV9wpo8Qah0wfTouxLKJ3/+bZKMdorlxEtmSIUGSLRRXCdmSv0Cxir/DDkZNkxQyD47LRg0m0oQQfYgdgsZbZKPDLxMjls29aDFmkmz0dm0hWwjpfrwjOTt1TIq4M6+QzWZacSHSLmgmPI2fyKZFzMNoHuzbrgm9vRgSqm78FygcwkYQrS1+PR4U0XETsvH9eIQQVcJ37nd05l38XDbeUg7KdgFMISHbCgh/0yOkIzdroVDlZdcFbm0cIQQdHzaz1WzKn43KFnB4QJQlGycZEtYdxjUbO0lnPl9b4Pq91N0dgwuL8YJ+sv3cWJZcc76moQnr21pBsbTbk422EAE7btFn4/C8rE6S1rYnG/v/MzqucHhwZbI4iroYrNHFsmmj+M5iN+MAtrf2goIlc7WjNA3esSzerdmjYXU44g8aWOKvQVr8PYS5JaJJLYgW9Ooozcm6tqgX0YqvrUY0uIr4UVMI248i0X2FwZp6akm7coLRuNPyxGFQTP8NQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRDkyPkfmRyPPMUXC6wAAAAASUVORK5CYII=" group-title="Latin America" tvg-id="multimedios.mx" tvg-name="multimedios.mx", Latino: Multimedios Monterrey HD
@@ -455,28 +431,25 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/5188
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/foxcinemalam.png" group-title="Latin America" tvg-id="aztecanoticias.mx" tvg-name="aztecanoticias.mx", Latino: Fox Cinema HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5187
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2hd.png" group-title="Latin America" tvg-id="foxsports2.mx" tvg-name="foxsports2.mx", Latino: Fox Sports 2 HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/5183
-
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/foxmovies.png" group-title="Latin America" tvg-id="foxmovies.mx" tvg-name="foxmovies.mx", Latino: Fox Movies HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5185
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports.png" group-title="Latin America" tvg-id="foxsports.mx" tvg-name="foxsports.mx", Latino: Fox Sports
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports.png" group-title="Latin America" tvg-id="857" tvg-name="foxsports.mx", Latino: Fox Sports
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5184
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/espn2.png" group-title="Latin America" tvg-id="espn2.mx" tvg-name="espn2.mx", Latino: ESPN 2
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/espn2.png" group-title="Latin America" tvg-id="72" tvg-name="espn2.mx", Latino: ESPN 2
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5193
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetworkhd.png" group-title="Latin America" tvg-id="cartoonnetwork.mx" tvg-name="cartoonnetwork.mx", Latino: Carton Network HD
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetworkhd.png" group-title="Latin America" tvg-id="878" tvg-name="cartoonnetwork.mx", Latino: Carton Network HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5201
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/tntseriehd.png" group-title="Latin America" tvg-id="tntseries.mx" tvg-name="tntseries.mx", Latino: TNT Series HD
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/tntseriehd.png" group-title="Latin America" tvg-id="825" tvg-name="tntseries.mx", Latino: TNT Series HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5179
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="Latin America" tvg-id="animalplanet.mx" tvg-name="animalplanet.mx", Latino: Animal Planet
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="Latin America" tvg-id="868" tvg-name="animalplanet.mx", Latino: Animal Planet
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5203
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/amc.png" group-title="Latin America" tvg-id="amc.mx" tvg-name="amc.mx", Latino: AMC
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/amc.png" group-title="Latin America" tvg-id="889" tvg-name="amc.mx", Latino: AMC
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7272
 
 #EXTINF:-1 tvg-logo="data:image/jpeg;base64,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ymawnH0fR/ZU/uL8oHrRoInkqq544AHugekDwu7OnVGzUpo46mUMO4wtS9qTvWdmmfUjRxOTaUvUCPYDG7JjX6iI27ctjo/QttQ/U0KdPHNUUHvxmN3jkz5Mnt2mfVnw8iBjXejqNX9bSpv6aK3vEL0y3p7MzHq8aGhbZDlLeipwRkU0BwdxGccJO61s+W3KbT83P0Pbfu9H+WnykHf5f1T85Poa2/d6P8tPlG53+X9U/OXP0RbfsKP8tPlB3+X9U/OWaIeTq6AjBAIPEHeITE7dGlu9T7Cqdp7WkT1hdn4cQya63UVjaLy5s9UbCkcpa0gesqG+LMbl9bntym8t0qgDAAA6hDFmd3ncW6VBs1EV16mAYdm4wtW9qzvWdmL9C2v7vR/lp8oen/Iy/qn5yy7egiLsoqoo4BQFHcIedrTad7Tu9IVICAgICAgICAgIGnvdV7Ks/hKltSZzvLFBknt6/XLRe0eL0jLeI23bO2tkpqEpqqKOCqAAPUJVSbTM7yi2teoVC8fwysaNY8WUZDY3DaXn5552xxad210PFsumr2JjtV93u8kdtuihs/nLoY/hp7+8tule6bG//wBDXb7uPn8ZT7QWhKNpT8HRXA4seLMetjzM9K1ivRodVqsmpv28k/1DZSzGICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB//9k=" group-title="Latin America" tvg-id="" tvg-name="", Latino: Az Click HD
@@ -485,13 +458,10 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/6791
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/AZTECA.png" group-title="Latin America" tvg-id="azteca13.mx" tvg-name="azteca13.mx", Latino: AZTECA 13
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7430
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/Azteca13FHD.png" group-title="Latin America" tvg-id="azteca13.mx" tvg-name="azteca13.mx", Latino: Azteca 13 FHD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/18333
-
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/AZTECA.png" group-title="Latin America" tvg-id="azteca7.mx" tvg-name="azteca7.mx", Latino: AZTECA 7
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7429
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/AZTECACINEMA.png" group-title="Latin America" tvg-id="aztecanoticias.mx" tvg-name="aztecanoticias.mx", Latino: AZTECA CINEMA
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/AZTECACINEMA.png" group-title="Latin America" tvg-id="651" tvg-name="aztecanoticias.mx", Latino: AZTECA CINEMA
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7772
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/AZTECAMUNDO.png" group-title="Latin America" tvg-id="aztecamundo.mx" tvg-name="aztecamundo.mx", Latino: AZTECA MUNDO
@@ -515,10 +485,10 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/6790
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/canald.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: Canal De Las Estrellas HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/6774
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/CARACOL.png" group-title="Latin America" tvg-id="CARACOL Latin America" tvg-name="CARACOL Latin America", Latino: CARACOL
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/CARACOL.png" group-title="Latin America" tvg-id="615" tvg-name="CARACOL Latin America", Latino: CARACOL
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7422
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetwork.png" group-title="Latin America" tvg-id="cartoonnetwork.mx" tvg-name="cartoonnetwork.mx", Latino: CARTOON NETWORK
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetwork.png" group-title="Latin America" tvg-id="878" tvg-name="cartoonnetwork.mx", Latino: CARTOON NETWORK
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7421
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/CDFPremuim.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: CDF Premuim
@@ -536,10 +506,10 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/7768
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/ClaroSports.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: Claro Sports
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7386
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/cnn.png" group-title="Latin America" tvg-id="cablenewsnetwork.mx" tvg-name="cablenewsnetwork.mx", Latino: CNN en Espagnol
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/cnn.png" group-title="Latin America" tvg-id="817" tvg-name="cablenewsnetwork.mx", Latino: CNN en Espagnol
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/8089
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/comedycentralhd.png" group-title="Latin America" tvg-id="comedycentral.mx" tvg-name="comedycentral.mx", Latino: Comedy Central HD
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/comedycentralhd.png" group-title="Latin America" tvg-id="823" tvg-name="comedycentral.mx", Latino: Comedy Central HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/6788
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/depelicula.png" group-title="Latin America" tvg-id="depelicula.mx" tvg-name="depelicula.mx", Latino: De Pelicula HD
@@ -554,13 +524,13 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/7762
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryworld.png" group-title="Latin America" tvg-id="discoveryworld.mx" tvg-name="discoveryworld.mx", Latino: DISCOVERY WORLD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7761
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" group-title="Latin America" tvg-id="disneychannel.mx" tvg-name="disneychannel.mx", Latino: Disney Channel
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" group-title="Latin America" tvg-id="880" tvg-name="disneychannel.mx", Latino: Disney Channel
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7274
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyjunior.png" group-title="Latin America" tvg-id="disneyjunior.mx" tvg-name="disneyjunior.mx", Latino: Disney Junior
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7278
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxd.png" group-title="Latin America" tvg-id="disneyxd.mx" tvg-name="disneyxd.mx", Latino: Disney XD
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxd.png" group-title="Latin America" tvg-id="590" tvg-name="disneyxd.mx", Latino: Disney XD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7275
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/distritocomedialam.png" group-title="Latin America" tvg-id="distritocomedia.mx" tvg-name="distritocomedia.mx", Latino: DISTRITO COMEDIA
@@ -590,13 +560,13 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/7412
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Latin America" tvg-id="aztecanoticias.mx" tvg-name="aztecanoticias.mx", Latino: FOX CLASSIC
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7756
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/foxlife.png" group-title="Latin America" tvg-id="foxlife.mx" tvg-name="foxlife.mx", Latino: FOX LIFE
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/foxlife.png" group-title="Latin America" tvg-id="627" tvg-name="foxlife.mx", Latino: FOX LIFE
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7406
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports3.png" group-title="Latin America" tvg-id="foxsports3.mx" tvg-name="foxsports3.mx", Latino: FOX SPORT 3
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports3.png" group-title="Latin America" tvg-id="1230" tvg-name="foxsports3.mx", Latino: FOX SPORT 3
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7414
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/fx.png" group-title="Latin America" tvg-id="fx.mx" tvg-name="fx.mx", Latino: FX
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/fx.png" group-title="Latin America" tvg-id="824" tvg-name="fx.mx", Latino: FX
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7407
 
 #EXTINF:-1 tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxASEBUQEBAVFRUVFxUVFRUVFRUVFRUVFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGhAQGi0lHSUtLS0tLS4tLS0tLTUuLS0tLS4tLS0tLS0tLS0tLS0tLS0tLSstLi0tLS0tLS01LS0tN//AABEIAMcA/QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAAAQIEBQYHAwj/xABFEAABAwIDBAcDBg0DBQAAAAABAAIDBBEFEiEHMUFhBhMiUXGBkaGxwQgjMkJicxQzNDVScnSSsrPR4fBUgtMXQ2Oi8f/EABoBAQEAAwEBAAAAAAAAAAAAAAABAwQFAgb/xAAxEQACAgECAwUHAwUAAAAAAAAAAQIDEQQxEiFBBRMiYZEyUYGhscHwFHHhM0JS0dL/2gAMAwEAAhEDEQA/AOQqLqUWweQSiKEBKIT5KEBKhSiAIUUIApUIgCIpQAIiIAiIUAUIiAIpA36jT/NO9QgCIiAIlkQBERAERSWkWNt+7nrb4FAQiIoAilFQVuicGh5aQ11w11jYlu+x42VLmEWvxFx4Xt8CjnkgAk2F7C5sL77DhdRZAQilEAClzhpYW79+uqhLIAoU2VUMTnnKxpJPAIEUIB/8WyYf0ZJsZnW+y34u/p6rYqLDIo/oMA521PiTqV6UGzbr0k5b8jSKfB6h/wBGJwHe7sj2q9j6L1B3lg/3E+4LasRxGGAXkdqdzRq4+XAczotXrulEz9IwIx+871Og8gq1FHudVFXtNtlTuik2/rGeeYfBWNTgszAScjgN+V4PsNirKed79Xvc79ZxPvXll5LzlGtKVb2j8/4JREUMQUKUQEIpUIAiIgCIiAIq5ctzkvl4ZrX87KhAERFAFIPJQioJAREQBS63C9uF1ChASEKIgCIspg+FmQ5njs8B+l/ZSUkllmSqmVsuGO55YZhb5jf6Le/v/V/qtxw7DWRtsxtu88T4nivWkpwALBX7Wq0NyzJnb/RwowlzfVlLI1g+kPSARXihsZOJ3hn9XcuC9uk2L9QzIw/OP3fZbxd48B/ZanhOFSVDnHM1kbbGWaQ5Y2X/AEnHe48GjU+1e7bY1rLeDV1N7T7uG5YyylxLnElxOpJuSVsGEdCK+oAcIerafrTEs9G2LvYshS49h9D+RQGomG+pm7Iv3xs3geh5lWVZ08xKQ/jxGO6NjQPVwJ9q5dlurt/owUV75/8AK5r4+hpKNUfbeX5f7Nmo9l1gRLVA5rfQi1bY37L3O8ty9pNlkFuzVSg82sI9Bb3rT6TpviUbg78JL/syNa5p5HQH0IXXeiOMNrqYTtGVwJZI3fle0Amx4gggjxXG1su1NOuOVia8kvpg3KVpbPCo8/M5njGzisiBdC5s4G8NBZJ5MJIPkb8lpzgQbEEEaEHQgjeCOBX0hUtLWkrROmPRdtSwyxACdo0O4SAfVdz7j8Fn7N7Xsn4dR67evQ1NbCuqajHqcpRCCNCCCNCDoQRvBHAovozWCIiAhERATooRSgIVVrHgd3gfRUqW2433aW7+fJAFCIgCIiAlEVQJadDYi40PkdQhClERChAiqjYXEAbygSzyRdYZRdY7X6I38+S3SigsFj8JpQ1oAWdhYtKyfEz6zs3SKqHPd7ntE1VSPDWlzjYNBJPcALkqWhYrpc9zaNxGge5sd/G7iB5NPqt+pqFSz+ZMOss4ZTl7vsaNiNY6aV0rvrHQdzR9EeQXjnNstzlvfLc5cxFs1t17W15KlF5PmW23lgoiIAu27EKF34BLIRo+d2XmGRsaSPPMP9q4tTwPke2ONpc97msY0b3PcQ1rR4kgL6u6NYC2iooaVtj1TAHH9J57UjvNxcfNaushx18JkqlwyyY3EIdLLAVMditsr2LW8QC+etpVawjX1E+Obkcd2g0Ajq+saLCUZj+uLZvW7T4krWTbh5+PJb3tGbmja7ult5Frh8AtDX1Ua3XCEX/jH6L7mDR3d7XxebXo+XyCIoVNsKQiICEUhRZASAoUqEAREQBERAVyRuabOaQbA2IINjqDqqQFL3km7iSe8kk6aDUo1pOg/wAtqgIREQBZHB4buzeQ+Kxy2DBo7ALHa8RNzQV8dqz0Ngoo9FkmBWlKFetWkz7OlYRc0dO6R4Y3efYOJKtNqVOxlLTR3LWddqbZj+Lfrbid62ro9Shsec/Sd7GjcPj6LD7UKEyUBc0XMT2yH9XVjj5B1/ALkXdpd7rqqk/BF4/d4xn4bL+Th62Phsx5/U42UUuIvoLDuvf2qF9QfOBEXVtm+y8yObV4kzLGLOZTOHakO8GYfVb9jeeNhofE5xgubKk3sZPYh0IItilSy1wfwVhGtnCxnPiCQ3kSeIXYah1gqDOANNLLHVdYtWy6OMiXhLTEJFq+JzWufNZSvqlq+L1Gnj7ly4Q/U6iFS6vn+3X5Ghqru7rlP3I0bp3L8y0d8g9jX/2WkrYumdVmkZGPqguPi7d7B7Vrq+q1Us2vB47LrcNNHPXLCIi1johSwDibb+F+GgVKlAEUKUAREQEIikOINxp4aIAoVbHAX7INxYXvobjUWO/Tj3qhASiIgCKQNN6rdKS0M0sCTuF9bb3bzuQh5gX0WzYYtZWxYY/csN2yOn2Y8TfwNmplkaOLO8N4bz4BYqlctgwZuhd5fE/BczV293U5Lc+qU8QybHh7uyR3H3q5ewOBa4Agggg6gg6EEKwoH2dbv94/wrIr4u1Ymc6xeI5pjWzF2cuo5Whp1Ectxl5NeAbjxF+ZVnR7L6on56eJg+xnkPoQ0e1dXRdKPbmsjHh4vjhZNF6KlvODEdFOhtFRkSMYZJRulls5wP2BazPIX5rcm1XNYQOsraesJ0G73qVay62WZPL95h1PdUQz6Izk+Ic1jaqu5rEVdcI2Okkdla0Fzj3Ab1jcGrnywNmk0Mhc9rf0YyT1YPPLlJ5krouyThlbbHAnY5PLMlUz3WrYzXAZnE6NB9BvWQxSuyttfUrnnSbE8x6pp5u94b8fRd7sXT91B6me75R+7+3qczUxeosVEdt3+fnQwtZUGSR0h3uN/AcB5Cy8UUiy3m8vLOykorCIVVha99b7rHd339PVQbWFr31vutbS1vb7FCh6CIpB5ICEREBWIXZS+3ZBDSdN5BIHoCqFFlKAKRa3Ph3c7o1tzbv7yAPU7lJIJ4DduvYcL/FAUqFU8AEgG4ubGxFx32OoUIAiIgJsoREIFlMKm4dyxarhkLTcLzOPEjPp7e7mmbvRzLasLdaMeZ9q5/QVYIFitwwyqGRvgFwu04vu0vM+njepQRsUb+Ky8MocAVrcc6vKWty793H+q+bupcly3E8NZM5dQ54AuVYnEG2u0358FbSVN9SVjr0k5e1yRyNR2lXWsQ5v5F1PUX0G5W7ngakqxr8TihYZJXhrRxPuA4nkFzrpF0olq3dRA1zY3G2X68v63c3l68u1pNDKzlFYj1Zw5yndLikzJ4zihxGpbRwE/g7TmlePrhp1I+zwHeSDwWzVla1jbDQAWAHcNwC1rC446OLLcGR2r3DieDR9ka+0rD4vjZJ0NzwHALs06KNzXSqPrL3+vvNe2x54K+b/ADmy4x7GiL2N3HdyHetUcbm54qXuJJJNyVSuvOWcJcktkZtPp1THze7KncN3t9qpKIvBnCIiFJaOdlMjbEi4NuI3HwVJCIQIiqfJoG2AtfUAAm+up4oUpREQBEsoQEqFIQjn70AREQBSAhRCEIiIUrilc03BWew/Hw0Brhb3LXkWK2iFqxJGSN1kFiLwb3Bjl/oub5G69ziN/pO9Sue2SwWstBBbfQ1boWXcp2Nr3dPTY389Io4/+6PAdr2BWNd05fa0MYv+k/d5MHxK1BkZO4XXu2nA1e4DlxWSOgqzlrJihXCrlnPl/BVUVE1Q/NI8vd3k6NHIbmjwWSonNgBLdXEav7h3DuCxxqmgWYP6f3VtJIXbz/RbijCMcYz9CyjZZy9lfMvavEXO3HzVgSihHJvczV1xgsRK3x2tqDcA6G9ri9jzHEKhFKh7CgBEQBERQoREQAnvXrFUOa1zW2GcZXaAnLe9geA3egXkiAIgKlxub2A5C9vahCEREKLIiqZIRuNkBSiIgCIiAKQEChUhXHGXENaCSSAANSSdwCgEtPMHiL6jvBQDiDrfz8QqVASgNtQoVxh9DLPKyCCMySSHKxjd5Nr+AAAJJOgAJVB5GVx+sfVUhdVw3YbWPaDPWQxOP1WMdNbkXXYL+F/FVVOwusB+arYHj7bJIz6DMvPGgo42OUEIt36V7MKzD6Z1XNNA5jSxpEZkzEvcGiwcwDee9evQrZhPiVMKplTHEwucwAsc912GxJAIHtTiRcGhhF187B5bfnJl/wBndb161ab002e1uGtEsuSSEnL1sd7NJ3CRpF234bxzuQEUkxgyuxXA6WsrJ46uBsrWwhzQ/cHdYBcW5K4229HqSjmpm0lOyIPjlLwwHUh0YBPqfVXPyevy6o/Zx/Narn5RX5RR/dzfxRrznxDociRbn0D2ezYpHJLHURxNjeGHM1znE5Q64AsLWI4rbhsHlt+cmX/Z3e/rV6ckhg48i3jpjswrsPiNQXMnhbbM+PMHMB0zPjO5t+IJ52Wjqp5Asi2/oZs8qsThfNTywsayQxkSF4JIa19xladLPC2D/ofiX+opf3pv+NRyQOYIun/9D8S/1FL+9N/xrBdM9nNZh0AqZ5IXsdII/mi+7S4OIJDmABvZt4kJxIYNOLTa/A3A8rX94UK/wHCZKupipYcofK7K0uvlFgXEusCbANJ3LaOlmzKrw+mNVUT05aHNYGsMhe5zzYABzAO879wKuUDSswy2yi975tb2tbLvtbjuuqUCKgWREUBU62lr7tfHko4IoVIERFChSiWQgUIpQoXVvk8wMNZUyEDOyFgYeID3nPb9xi5Stl2d4nW0+IROoY+tlfeMw7myxnVwc76oGXNm4ZeIuDJbBHQ9v2NVUUlNBFNJFG5kj3dW5zM7g5oAc5pBIAO77Xgs3sIxepqKKZtRI+QRTZI3vcXOyljXFmY6kAm+u7NbdZZzpziOEsihZjLY+3csY5r5S1wAzlpY3MALgZtL3C1mfarg1FT9ThsJfa+SOON0MYJ1u9zwDv3kBxWPdYwU0rbTXTsxKambUSmF7IZHQmRzog+19GE2bq0O04lalhOK4jlFLRz1VtXCGnfKDqe0ckWp14q0xnFJaqokqpyDJK7M4gWA0ADWjg0AADkAvpTZdgkVLhdOY2APmjjmlfbtPfI0P1PEAOsB3Be34UTc49gdN0liqIpA3EbCRhcJHTOYW5hmD2PdYi194XZtqMLXYPWBwvaEuH6zCHtPkWgrl7ttdfJUNEMEDIXSNa0Pa90gY54ALnB4Gax4D1XU9pf5nrfuJPcvDzlFRyr5PX5fU/s4/mNV18on8fR/dzfxRq1+T1+XVP7OP5rVc/KK/KKP7ub+KNev7ydDmmE4rWx/MUk9QzrHZurp3yNc91rXtHq42HsWxU1H0mBEkbcTuNRmdPv4Xa86jkQur7D8EihwxlSGjragvc99u1lbI5jGA8GgNvbvJWpdLdstbDVzw00EAjhkkivK173uMbi1zjZ7QAS02Fkzl4SKdZxeMy4dK2Zur6Z4e0ji6I5hbzK+RmHQeC+vKyYvoHvda7qdzjbdd0RJt6r5Di+iPAJX1DMzg3SeupGOjpaqSJrnZ3NblsXWDc2oOtmgeS+l9n1bLPhdLNM8vkfEHPcd7iSdSvlFfU2y78zUX3LfeUmEcOO0XFIqwufWyuijnJdH2CHRsl7TN3FoIXbtptAKrB6lre1aLrmW4mIiUW8Q23mvmXE/x833sv8AMcvpPZTiQq8GgD9Sxhp3j7rsC/izKfNSSxzCOW7A8N6zEnzkaQQkg/blIa3/ANRIsx8oTF80tLQtdYNBnk7gXExxE+AEvqFsuxPo4aOCrzjtGqkhB4uZTExtP73WHzXGNoGMfheJ1M4N2mQsj7uri7DSORyl3+5Vc5Doa+QiqjaCQC4NB4m9h421VK9kCKQL7vHUqEIS63DcoRFQEXp1LsnWZTlzZc3DNa+XxtqvNQpIQk7r7t3JQipCVCKUBC3LZP0ggocRE9TcRuifEXgF3V5nMcHkDW3YsbfpLTlnOhOAivroqMyGMSCTtgBxGSNzxod/0VHjHMp9B4rLgOINa6eejmyghp69gc0EgkXa4EbhorGn2fdHZwWwwRPtv6qokJHO7JNFp0uwZ99MRZbnTG/81bX0G2cU2ESOrJarO/IWZnBsMTGkguNiTr2RqTbfosXLoynMdq3QNmGPjkp3udBMXNAebuje0Xy5vrNIva+vZNyVtezTapSw0sdHXkxmECOOUNc9joxowPyglrgLC9rWF7hYLbR0zgrpIqaldnihLnOlH0XyEZQGHi0DNruObTcuaL2llcyHearD+iMsxqTUU7Xl3WHLUujGe979WHWGuugV3tB6eYVLh1VTxVsckkkT2MazM+7iNBmaLDxJXz2icAyb7se6SUlBVTS1khjY+EMaQyR93ZwbWY0kaAr22ydKaPEJqZ9HKZBGyVryWSMsXOYR9NovuO5c8RXh55Jk6tsp2mQUcAoa7M2NrnGKVrS8NDyXOY9rbutmJIIB320trs2MU/ROtkNTNUU+d+ry2odCXHvcwOHa52v3rgaKOBcn0ri/T7Bo6V8LK6J3zTo2BmaQ/QLWjsA8tSvmhg0HgFUisY4DZC710E2j4TTYbTU09UWSxxhr29TO7K4E6Xawg+RXBkRxyEz2rpA6aRzdQ6SRwPeHPJB9Cuj7Gum9LQNqIa2UxxvLJIyGSP7di2QWY0kXAj9CuZIjWUD6E6QbV8KFHOKOpzTmOTqmiCdl5XA2cS5gA1Nzc8F88tFhZSiJJAIpUKgKVCIAiKVQTmNrcFSpRAERQhCUVUrrm4aBoNBe2gtfXid6pvwQBS1xBu0kEbiCQfIhQiAvY8Zq2izauoA5Tyj3OVvVVUkpvLI+Q/8Ake5/8RK8gFVJE5tswIuA4XG9p3Ed4QFKIl0AREQBERAEREBLiOAtu4314lQURAEAJ0AuilriNQbeGiAhERAFClEAUuFtxvz1+KC2tx4a7td/PiqUBKIiFCIiEIRSiFCIiEChSiANtxREQBS55NrkmwsLkmwG4DuHJEQEIiIApaBx/wAPBEVBCIigCIiAIiIAiIgCBEQBAiIApY8g3G8cgfYURAQoUohT/9k=" group-title="Latin America" tvg-id="Gala TV HD MX" tvg-name="Gala TV HD MX", Latino: Gala Tv HD
@@ -626,7 +596,7 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/7427
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/hbosignature.png" group-title="Latin America" tvg-id="hbosignature.mx" tvg-name="hbosignature.mx", Latino: HBO Signature
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7426
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/historyhd.png" group-title="Latin America" tvg-id="historychannel.mx" tvg-name="historychannel.mx", Latino: History HD
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/historyhd.png" group-title="Latin America" tvg-id="875" tvg-name="historychannel.mx", Latino: History HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/6781
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/HOLATV.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: HOLA TV HD
@@ -635,7 +605,7 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/7754
 #EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="Latin America" tvg-id="investigationdiscovery.mx" tvg-name="investigationdiscovery.mx", Latino: INVESTIGACION DISCOVERY
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7398
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/lifetime.png" group-title="Latin America" tvg-id="lifetime.mx" tvg-name="lifetime.mx", Latino: LIFETIME
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/lifetime.png" group-title="Latin America" tvg-id="835" tvg-name="lifetime.mx", Latino: LIFETIME
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7752
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/maxtv.png" group-title="Latin America" tvg-id="maxup.mx" tvg-name="maxup.mx", Latino: MAX UP
@@ -653,19 +623,19 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/7395
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/mtvhits.png" group-title="Latin America" tvg-id="mtv.mx" tvg-name="mtv.mx", Latino: MTV LATINO HITS
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7394
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/mtvlive.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: MTV LIVE
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/mtvlive.png" group-title="Latin America" tvg-id="882" tvg-name="", Latino: MTV LIVE
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7750
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/mtvlivehd.png" group-title="Latin America" tvg-id="mtv.mx" tvg-name="mtv.mx", Latino: MTV Live FHD
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/mtvlivehd.png" group-title="Latin America" tvg-id="882" tvg-name="mtv.mx", Latino: MTV Live FHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/18265
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/MULTIMEDIOSPlus.png" group-title="Latin America" tvg-id="multimedios.mx" tvg-name="multimedios.mx", Latino: MULTIMEDIOS Plus
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/MULTIMEDIOSPlus.png" group-title="Latin America" tvg-id="605" tvg-name="multimedios.mx", Latino: MULTIMEDIOS Plus
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7393
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/MUSICASI.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: MUSICA SI
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7392
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographic.png" group-title="Latin America" tvg-id="natgeowild.mx" tvg-name="natgeowild.mx", Latino: NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographic.png" group-title="Latin America" tvg-id="871" tvg-name="natgeowild.mx", Latino: NATIONAL GEOGRAPHIC
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7390
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/nickjr.png" group-title="Latin America" tvg-id="nickjr.mx" tvg-name="nickjr.mx", Latino: NICK Jr
@@ -674,10 +644,10 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/7389
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/nicktoons.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: NICK TOONS
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7749
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" group-title="Latin America" tvg-id="nickelodeon.mx" tvg-name="nickelodeon.mx", Latino: NICKELODEON
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" group-title="Latin America" tvg-id="879" tvg-name="nickelodeon.mx", Latino: NICKELODEON
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7273
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/ONCENoticias.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: ONCE Noticias
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/ONCENoticias.png" group-title="Latin America" tvg-id="607" tvg-name="", Latino: ONCE Noticias
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7402
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/PROYECTO40.png" group-title="Latin America" tvg-id="proyecto40.mx" tvg-name="proyecto40.mx", Latino: PROYECTO 40
@@ -686,7 +656,7 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/7388
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/PX.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: PX
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7748
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/sonytv.png" group-title="Latin America" tvg-id="449" tvg-name="sonyentertainmenttv.mx", Latino: SONY
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/sonytv.png" group-title="Latin America" tvg-id="640" tvg-name="sonyentertainmenttv.mx", Latino: SONY
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7747
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/space.png" group-title="Latin America" tvg-id="space.mx" tvg-name="space.mx", Latino: Space HD
@@ -695,10 +665,10 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/6779
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/studiouniversal.png" group-title="Latin America" tvg-id="studiouniversal.mx" tvg-name="studiouniversal.mx", Latino: STUDIO UNIVERSAL
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7746
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/syfy.png" group-title="Latin America" tvg-id="syfy.mx" tvg-name="syfy.mx", Latino: SYFY
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/syfy.png" group-title="Latin America" tvg-id="829" tvg-name="syfy.mx", Latino: SYFY
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7745
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/tbs.png" group-title="Latin America" tvg-id="tbs.mx" tvg-name="tbs.mx", Latino: TBS VERYFUNNY
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/tbs.png" group-title="Latin America" tvg-id="826" tvg-name="tbs.mx", Latino: TBS VERYFUNNY
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7744
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/tcm.png" group-title="Latin America" tvg-id="tcm.mx" tvg-name="tcm.mx", Latino: TCM
@@ -713,10 +683,10 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/7382
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/TELEHIT.png" group-title="Latin America" tvg-id="telehit.mx" tvg-name="telehit.mx", Latino: TELEHIT
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7742
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/TELEMUNDO.png" group-title="Latin America" tvg-id="406" tvg-name="telemundo.mx", Latino: TELEMUNDO
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/TELEMUNDO.png" group-title="Latin America" tvg-id="24" tvg-name="telemundo.mx", Latino: TELEMUNDO
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7741
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/TELEMUNDOINT.png" group-title="Latin America" tvg-id="telemundo.mx" tvg-name="telemundo.mx", Latino: TELEMUNDO INT
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/TELEMUNDOINT.png" group-title="Latin America" tvg-id="796" tvg-name="telemundo.mx", Latino: TELEMUNDO INT
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7381
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/TelemundoPuertoRico.png" group-title="Latin America" tvg-id="Telemundo Puerto Rico Latin America" tvg-name="Telemundo Puerto Rico Latin America", Latino: Telemundo Puerto Rico
@@ -728,25 +698,25 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/7380
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/TIIN.png" group-title="Latin America" tvg-id="tiin.mx" tvg-name="tiin.mx", Latino: TIIN
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7740
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/tlc.png" group-title="Latin America" tvg-id="tlc.mx" tvg-name="tlc.mx", Latino: TLC
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/tlc.png" group-title="Latin America" tvg-id="837" tvg-name="tlc.mx", Latino: TLC
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7387
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/TLnovelas.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: TLnovelas
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/TLnovelas.png" group-title="Latin America" tvg-id="625" tvg-name="", Latino: TLnovelas
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/16183
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/tnt.png" group-title="Latin America" tvg-id="tnt.mx" tvg-name="tnt.mx", Latino: TNT
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/tnt.png" group-title="Latin America" tvg-id="tnt.mx825" tvg-name="tnt.mx", Latino: TNT
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7271
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/TOONCAST.png" group-title="Latin America" tvg-id="Tooncast LAM" tvg-name="Tooncast LAM", Latino: TOONCAST
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7739
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Latin America" tvg-id="trutv.mx" tvg-name="trutv.mx", Latino: Tru Tv HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Latin America" tvg-id="841" tvg-name="trutv.mx", Latino: Tru Tv HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/6778
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/TVMARTI.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: TV MARTI
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7379
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/eentertainment.png" group-title="Latin America" tvg-id="" tvg-name="", Latino: TVE
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/eentertainment.png" group-title="Latin America" tvg-id="618" tvg-name="", Latino: TVE
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7736
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/UFCNetworkHD.png" group-title="Latin America" tvg-id="ufcnetwork.mx" tvg-name="ufcnetwork.mx", Latino: UFC Network HD
@@ -755,13 +725,13 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/7401
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/UnicableHD.png" group-title="Latin America" tvg-id="unicable.mx" tvg-name="unicable.mx", Latino: Unicable HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/6777
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/UNIMASHD.png" group-title="Latin America" tvg-id="408" tvg-name="", Latino: UNIMAS HD
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/UNIMASHD.png" group-title="Latin America" tvg-id="251" tvg-name="", Latino: UNIMAS HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7378
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/universalchannelhd.png" group-title="Latin America" tvg-id="universalchannel.mx" tvg-name="universalchannel.mx", Latino: Universal HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/6776
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/Wapa.png" group-title="Latin America" tvg-id="414" tvg-name="Wapa LAM", Latino: Wapa
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/Wapa.png" group-title="Latin America" tvg-id="611" tvg-name="Wapa LAM", Latino: Wapa
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/7277
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/WarnerHD.png" group-title="Latin America" tvg-id="warnerchannel.mx" tvg-name="warnerchannel.mx", Latino: Warner HD
