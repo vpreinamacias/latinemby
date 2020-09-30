@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/AMC_logo_2016.svg_.png" group-title="Latin America" tvg-id="254" tvg-name="amc.mx", LATINO: AMC | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53266
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision_2013.svg_.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION (West) | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision_2013.svg_.png" group-title="Latin America" tvg-id="402" tvg-name="", LATINO: UNIVISION (West) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53134
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision_2013.svg_.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION (San Francisco) | HD
