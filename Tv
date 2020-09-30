@@ -7,9 +7,6 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53134
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision_2013.svg_.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION (San Francisco) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53130
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision_2013.svg_.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION (East) | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53123
-
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/unimas-logo.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIMAS (San Francisco) | HD*
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53114
 
@@ -58,14 +55,8 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53100
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/12/delicioso_5May2018.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: DELICIOSO | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53099
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIMAS (East) | HD*
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53098
-
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION 41 (Paterson) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53097
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION 34 (Atlanta) | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53096
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION 61 (Cleveland) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53095
@@ -73,8 +64,6 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53095
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION 23 (Fort Lauderdale) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53094
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION 66 (Chicago) | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53093
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION 45 (Houston) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53092
@@ -91,44 +80,11 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53089
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/KAKW62-012013.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: UNIVISION 62 (Austin) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53088
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/TELEMUNDO-new.png" group-title="Latin America" tvg-id="telemundo.ktlm.brownsville.tx.us" tvg-name="telemundo.ktlm.brownsville.tx.us", LATINO: TELEMUNDO 40 (Rio Grande Valley) | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53087
-
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/Fox-Sports-2.png" group-title="Latin America" tvg-id="fox.sports.2.us" tvg-name="fox.sports.2.us", LATINO: FOX SPORTS 2 | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53086
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/Fox_Sports_logo1.svg_.png" group-title="Latin America" tvg-id="foxsports.mx" tvg-name="foxsports.mx", LATINO: FOX SPORTS | UHD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53085
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/zona-futbol.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: ZONA FÃšTBOL | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53084
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TUDN X10 | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53083
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TUDN X9 | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53082
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TUDN X8 | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53081
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TUDN X7 | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53080
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TUDN X6 | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53079
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TUDN X5 | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53078
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TUDN X4 | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53077
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TUDN X3 | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53076
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TUDN X1 | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53075
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TUDN-X1.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TUDN X2 | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53074
@@ -241,17 +197,11 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53039
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/kisspng-telemundo-logo-universo-nbcuniversal-luis-miguel-5b2feeaf6c9066.7437332915298679514447.jpg" group-title="Latin America" tvg-id="telemundo.eastern.us" tvg-name="telemundo.eastern.us", LATINO: TELEMUNDO 19 (Connecticut) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53038
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/Telemundo_39_2012.png" group-title="Latin America" tvg-id="telemundo.kxtx.dallas.tx.us" tvg-name="telemundo.kxtx.dallas.tx.us", LATINO: TELEMUNDO 39 (Dallasâ€“Fort Worth) | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53037
-
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/kisspng-telemundo-logo-universo-nbcuniversal-luis-miguel-5b2feeaf6c9066.7437332915298679514447.jpg" group-title="Latin America" tvg-id="telemundo.ktmd.houston.tx.us" tvg-name="telemundo.ktmd.houston.tx.us", LATINO: TELEMUNDO 47 (Houston) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53036
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/Telemundo_Houston_2013_logo.png" group-title="Latin America" tvg-id="telemundo.ktmd.delayed.houston.tx.us" tvg-name="telemundo.ktmd.delayed.houston.tx.us", LATINO: TELEMUNDO 39 (Las Vegas) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53035
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/Philadelphia.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TELEMUNDO 69 (Philadelphia) | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53034
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TELEMUNDO-Tampa-bay.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TELEMUNDO 49 (Tampa) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53033
@@ -261,9 +211,6 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53032
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/ELEMUNDO-48-San-Francisco-Bay.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TELEMUNDO 48 (San Francisco Bay) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53031
-
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TELEMUNDO-Teterboro.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TELEMUNDO 47 (NEW YORK) | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53030
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/TELEMUNDO-44-Washington-DC.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TELEMUNDO 44 (Washington DC) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53029
@@ -478,13 +425,13 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/5196
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryturbo.png" group-title="Latin America" tvg-id="Discovery Turbo Latin America" tvg-name="Discovery Turbo Latin America", Latino: Discovery Turbo
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5194
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" group-title="Latin America" tvg-id="espnlatin.mx" tvg-name="espnlatin.mx", Latino: ESPN
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" group-title="Latin America" tvg-id="espnlatin" tvg-name="espn", Latino: ESPN
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5182
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/cinecanallam.png" group-title="Latin America" tvg-id="cinecanal.mx" tvg-name="cinecanal.mx", Latino: Cinecanal
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5190
 
-#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" group-title="Latin America" tvg-id="espn3.mx" tvg-name="espn3.mx", Latino: ESPN 3
+#EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" group-title="Latin America" tvg-id="espn3.mx" tvg-name="espn 3", Latino: ESPN 3
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5192
 
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowildhd.png" group-title="Latin America" tvg-id="natgeowild.mx" tvg-name="natgeowild.mx", Latino: NatGeo Wild HD
@@ -499,7 +446,7 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/5181
 #EXTINF:-1 tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Latin America" tvg-id="F1 HD Latin America" tvg-name="F1 HD Latin America", Latino: F1 HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5191
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="fox1.mx" tvg-name="fox1.mx", Latino: Fox 1 HD
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Latin America" tvg-id="fox1.mx" tvg-name="fox1", Latino: Fox 1 HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/5189
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="Latin America" tvg-id="aztecanoticias.mx" tvg-name="aztecanoticias.mx", Latino: Fox Action HD
