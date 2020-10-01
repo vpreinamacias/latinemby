@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/AMC_logo_2016.svg_.png" group-title="Latin America" tvg-id="29" tvg-name="amc.mx", LATINO: AMC | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53266
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/AMC_logo_2016.svg_.png" group-title="Latin America" tvg-id="29" tvg-name="AMC latino", LATINO: AMC | HD
+http://m3ulink.com:7899/Yadira82201/koWt2ErS/7272
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Univision_2013.svg_.png" group-title="Latin America" tvg-id="561" tvg-name="", LATINO: UNIVISION (West) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53134
@@ -179,14 +179,14 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53044
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/12/Rtp_logo1.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: RTP INTERNACIONAL | SD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53043
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/TELEMUNDO-Chicago.png" group-title="Latin America" tvg-id="telemundo.mx" tvg-name="telemundo.mx", LATINO: TELEMUNDO: 44 (Chicago) | HD
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/TELEMUNDO-Chicago.png" group-title="Latin America" tvg-id="" tvg-name="telemundo 47", LATINO: TELEMUNDO: 47 (Chicago) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53042
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/TELEMUNDO-25-Denver.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TELEMUNDO 25 (Denver) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53041
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TELEMUNDO-Fort-Lauderdale.png" group-title="Latin America" tvg-id="24" tvg-name="", LATINO: TELEMUNDO 51 (Miami) | HD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53040
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TELEMUNDO-Fort-Lauderdale.png" group-title="Latin America" tvg-id="24" tvg-name="", LATINO: TELEMUNDO 47(Miami) | HD
+http://m3ulink.com:7899/Yadira82201/koWt2ErS/53036
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/TELEMUNDO-Tucson.png" group-title="Latin America" tvg-id="" tvg-name="", LATINO: TELEMUNDO 40 (Tucson) | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53039
