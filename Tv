@@ -167,8 +167,8 @@ http://m3ulink.com:7899/Yadira82201/koWt2ErS/53048
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/NUESTRA-TELE-INTERNACIONAL.jpg" group-title="Latin America" tvg-id="" tvg-name="", LATINO: NUESTRA TELE INTERNACIONAL | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53047
 
-#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/220px-Discovery_2016.png" group-title="Latin America" tvg-id="575" tvg-name="discoveryhd.mx", LATINO: DISCOVERY | SD
-http://m3ulink.com:7899/Yadira82201/koWt2ErS/53046
+#EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/220px-Discovery_2016.png" group-title="Latin America" tvg-id="575" tvg-name="discovery latino", LATINO: DISCOVERY | HD
+http://m3ulink.com:7899/Yadira82201/koWt2ErS/5200
 
 #EXTINF:-1 tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Telefe.png" group-title="Latin America" tvg-id="620" tvg-name="", LATINO: TELEFE | HD
 http://m3ulink.com:7899/Yadira82201/koWt2ErS/53045
