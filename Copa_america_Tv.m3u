@@ -1,33 +1,46 @@
-#EXTM3U
-#EXTINF:0,TV Publica (Argentina)
-http://redcoliptv.com:8090/live/MC21col507W/Id2lqYY3eV/20258.m3u8
-#EXTINF:0,TyC Sports (Argentina)
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/2295
-#EXTINF:0,TC Television (Ecuador)
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/2686
-#EXTINF:0,Directv Sports 1
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/2287
-#EXTINF:0,Directv Sports 2
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/2286
-#EXTINF:0,Directv Sports Plus
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/2284
-#EXTINF:0,Directv Sports (Ecuador)
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/2283
-#EXTINF:0,Tv Globo (Brasil)
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/20344
-#EXTINF:0,TIGO SPORTS 1 (BOLIVIA)
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/2238
-#EXTINF:0,TIGO SPORTS 2 (BOLIVIA)
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/2239
-#EXTINF:0,Caracol TV (Colombia)
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/20854
-#EXTINF:0,Win Sports (Colombia)
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/4080
-#EXTINF:0,Win Sports Plus (Colombia)
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/19642
-#EXTINF:0,TUDN (USA)
-http://yeahiptv.vip:8080/live/v209gunvd/on0k5orqk/684705.m3u8
-#EXTINF:0,AZTECA DEPORTES
-http://redcoliptv.com:8090/MC21col507W/Id2lqYY3eV/2330
-
-
+#EXTINF:0,El Canal del Futbol (EC)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/40662.m3u8
+#EXTINF:0,El Canal del Futbol (EC) opc 2
+http://castlempire.site:8080/live/JuanEcuador/pJDSWRh04Y/172556.m3u8
+#EXTINF:0,El Canal del Futbol (EC) opc 3
+http://castlempire.site:8080/live/JuanEcuador/pJDSWRh04Y/172557.m3u8
+#EXTINF:0,El Canal del Futbol (EC) opc 4
+http://castlempire.site:8080/live/JuanEcuador/pJDSWRh04Y/172558.m3u8
+#EXTINF:0,El Canal del Futbol (EC) opc 5
+http://br0ss.xyz:8090/live/Marcos/Marcos123/33029.m3u8
+#EXTINF:0,El Canal del Futbol (EC) opc 6
+http://br0ss.xyz:8090/live/Marcos/Marcos123/997.m3u8
+#EXTINF:0,Caracol (CO)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/10234.m3u8
+#EXTINF:0,Caracol (CO) opc 2
+http://ultra-premium-pro.xyz:8090/VSGMEGA22/vopJide2U2/10239
+#EXTINF:0,TLT (VE)
+http://ultra-premium-pro.xyz:8090/live/VSGMEGA22/vopJide2U2/67452.m3u8
+#EXTINF:0,Meridiano TV (VE)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/10364.m3u8
+#EXTINF:0,TVES (VE)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/40395.m3u8
+#EXTINF:0,America TV (PE)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/32646.m3u8
+#EXTINF:0,Movistar Deportes (PE)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/56772.m3u8
+#EXTINF:0,Movistar Deportes PLUS (PE)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/40715.m3u8
+#EXTINF:0,Tigo Sports 1 (BOL)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/40875.m3u8
+#EXTINF:0,Tigo Sports 2 (BOL)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/40877.m3u8
+#EXTINF:0,Tigo Sports 3 (BOL)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/40879.m3u8
+#EXTINF:0,Chilevision (CH)
+http://ultra-premium-pro.xyz:8090/live/VSGMEGA22/vopJide2U2/39805.m3u8
+#EXTINF:0,TyC Sports (ARG)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/51514.m3u8
+#EXTINF:0,VTV (URU)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/11657.m3u8
+#EXTINF:0,VTV PLUS (URU)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/11660.m3u8
+#EXTINF:0,SKY Sports 16 (MX)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/37967.m3u8
+#EXTINF:0,SKY Sports 24 (MX)
+http://ultra-premium-pro.xyz:8080/live/VSGMEGA22/vopJide2U2/37968.m3u8
